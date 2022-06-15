@@ -1,4 +1,4 @@
-<img src="./cute-astronaut-operating-laptop.gif" min-width="400px" max-width="400px" width="400px" align="right" alt="Ilustração azanniel">
+<img src="./cute-astronaut-operating-laptop.gif" min-width="400" max-width="400" width="400" align="right" alt="Ilustração azanniel">
 
 <h3>Olá, me chamo Leandro Azanniel 👨‍💻</h3>
 
