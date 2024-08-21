@@ -3,7 +3,7 @@
 <h3>Olá, me chamo Leandro Azanniel 👨‍💻</h3>
 
 <p align="left"> 
-  Sou formado em <strong>Ciência da Computação com Pós em Engenharia de Software</strong>.Um apaixonado pela programação FullStack.<br>
+  Sou formado em <strong>Ciência da Computação com Pós em Engenharia de Software</strong>. Um apaixonado pela programação FullStack.<br>
 </p>
 
 <br>
