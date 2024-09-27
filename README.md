@@ -1,32 +1,21 @@
-<img src="./cute-astronaut-operating-laptop.gif" min-width="400" max-width="400" width="400" align="right" alt="Ilustração azanniel">
+<img align="left" height="300" src="https://github.com/user-attachments/assets/06c83c55-7822-40e5-a5ad-9f12b8a0c2fa"/>
 
-<h3>Olá, me chamo Leandro Azanniel 👨‍💻</h3>
+<br/>
 
-<p align="left"> 
-  Sou formado em <strong>Ciência da Computação com Pós em Engenharia de Software</strong>. Um apaixonado pela programação FullStack.<br>
-</p>
+```diff
+Olá, Sou Leandro Azanniel 👻.
 
-<br>
+@@Desenvolvedor Web & Mobile.@@
++ 🧑‍🎓 Engenharia de Software.
+- ✨ 26 anos de idade
+! 💎 TypeScript, PHP, Java & Python
+# 📖 Testes automatizados e Qualidade de software
+```
 
-<p align="left">
-  <strong>🚀 Linguagens</strong>
-  <br><br>
-  
-  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="Javascript" />
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="Typescript" />
-  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="NodeJS" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="ReactJS" />
-  <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="ReactNative" />
-</p>
+---
+Você pode me encontrar em:
 
-<br>
-
-<p align="left">
-  <strong>☕ Que tal tomar um café e bater um papo: ⤵️</strong>
-</p>
-
-<p align="left">
-  <a href="mailto:leo.azannielttt@gmail.com" alt="Gmail">
+<a href="mailto:leo.azannielttt@gmail.com" alt="Gmail">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 
   <a href="https://www.linkedin.com/in/leandroazanniel/" alt="Linkedin">
@@ -34,4 +23,3 @@
 
   <a href="https://api.whatsapp.com/send?phone=5592985406269&text=Ol%C3%A1%2C%20te%20encontrei%20no%20github.%20Vamos%20bater%20um%20papo%3F" alt="WhatsApp">
   <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
-</p>  
