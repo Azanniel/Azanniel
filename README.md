@@ -6,7 +6,7 @@ Olá, Sou Leandro Azanniel 👻.
 # 📖 Ciência da Computação.
 + 🧪 Teste e Qualidade de Software
 - ✨ 27 anos de idade
-! 💎 Kotlin, TypeScript, Java, PHP & Python
+! 💎 TypeScript, PHP, Kotlin, Java & Python
 ```
 
 ---
